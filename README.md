@@ -2,14 +2,7 @@
     Comandos do Git e Github
 </h1>
 
-<div>
-## Comandos GIT/GITHUB
-
-git 
-`pwd` move dentro das pastas no terminal
-
-_______________________________________________________
-
+- `pwd` move dentro das pastas no terminal
 - `git init` // Inicia a linha do tempo
 - `git add` // Adciona ou atualiza mudanças para irem para a linha do tempo
 - `git commit` // adiciona um ponto a linha do tempo
