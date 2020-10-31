@@ -1,4 +1,9 @@
-Comandos Git-Github
+<h1 align="center">
+    Comandos do Git e Github
+</h1>
+
+
+## Comandos GIT/GITHUB
 
 git 
 `pwd` move dentro das pastas no terminal
@@ -21,4 +26,5 @@ _______________________________________________________
 `git remote rm origin` //Deleta origem
 `git reset` //reseta o repositório
 `git commit -m "Primeiro commit"` // Inicia os comentários
+`git add *`
 `git branch -M main` // Começa uma linha do tempo
