@@ -1,7 +1,5 @@
 # GIT
 
-## Estados
-
 ## Ajuda
 
 ##### Geral
