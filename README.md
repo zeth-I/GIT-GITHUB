@@ -13,7 +13,7 @@
 	git config --global user.name "José Lucas Cabral Braga // DevZeth"
 
 ##### Setar email
-	git config --global jlcbraga@outlook.com
+	git config --global user.email "jlcbraga@outlook.com"
 	
 ##### Setar editor
 	git config --global core.editor vscode
